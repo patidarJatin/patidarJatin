@@ -1,16 +1,115 @@
-## Hi there 👋
+# Hi 👋, I'm Jatin Patidar
 
-<!--
-**patidarJatin/patidarJatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Java Full Stack Developer | MCA Student
 
-Here are some ideas to get you started:
+I am an MCA student passionate about building scalable web applications using Java and modern web technologies. I enjoy solving programming problems, learning new technologies, and creating projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 MCA Student
+- 💻 Learning Java Full Stack Development
+- 🌱 Currently learning Spring Boot, REST APIs, Microservices, and React
+- 🔭 Currently building a Placement Preparation Portal
+- 🎯 Goal: Become a Software Engineer at a top product or service-based company
+- 📚 Practicing Data Structures & Algorithms in Java
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+
+### Backend
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Hibernate
+- JPA
+- REST API
+
+### Frontend
+- React.js
+- Tailwind CSS
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- Maven
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🎯 Placement Preparation Portal
+A full-stack web application that provides placement preparation materials, quizzes, interview questions, and AI-powered guidance.
+
+**Tech Stack**
+- Spring Boot
+- React
+- MySQL
+- JWT Authentication
+
+---
+
+### 🏦 Banking Management System
+
+A Spring Boot REST API project implementing banking operations using layered architecture and design patterns.
+
+Features:
+- Customer Management
+- Account Management
+- Transactions
+- Validation
+- Exception Handling
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/jatin-patidar-811a52243/
+- Email: j830595p@gmail.com
+- Portfolio: Coming Soon
+
+---
+
+## 📚 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Docker
+- Microservices
+- System Design
+- DSA in Java
+
+---
+
+## 💡 Quote
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+⭐ Thanks for visiting my profile!
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+⭐ Thanks for visiting my profile!
