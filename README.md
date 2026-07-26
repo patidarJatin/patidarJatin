@@ -100,6 +100,3 @@ Features:
 
 ⭐ Thanks for visiting my profile!
 
-> "Consistency beats talent when talent doesn't stay consistent."
-
-⭐ Thanks for visiting my profile!
